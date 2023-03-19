@@ -1,6 +1,6 @@
 # Object-Detection-for-Blind
 
-#setup
+# Steps to Follow
 gitclone the repository
 install the requirements
 install tensorflow models
