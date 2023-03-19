@@ -1,8 +1,8 @@
-# Object-Detection-for-Blind
+# Obstacle-Detection-for-Blind
 
-# Steps to Follow
+# Steps to Follow - use ubuntu
 * gitclone the repository
-* install the requirements
+* install the requirements **pip install -r requirements.txt**
 * install tensorflow models
-* install tensorflow API
+* pip install tensorflow-object-detection-api
  * -install proctobuf
