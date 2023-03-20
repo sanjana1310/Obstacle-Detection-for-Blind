@@ -5,6 +5,6 @@
 * install the requirements **pip install -r requirements.txt**
 * install tensorflow models
 * pip install tensorflow-object-detection-api
- * install proctobuf
+ * install protobuf
  * sudo apt install espeak
 
