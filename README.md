@@ -7,4 +7,4 @@
 * pip install tensorflow-object-detection-api
  * install protobuf
  * sudo apt install espeak
-
+* run the main file
